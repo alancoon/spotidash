@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jwilsson/spotify-web-api-php": "^1.12",
+	"watson/taggly": "^1.0"
+    }
+}
